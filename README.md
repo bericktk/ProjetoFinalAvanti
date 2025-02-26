@@ -11,11 +11,11 @@ Este é um programa em Python que auxilia os usuários a manter um estilo de vid
 - Listagem de usuários cadastrados.
 
 ## Como Executar
-1. Certifique-se de ter o Python instalado (versão 3.x recomendada).
+1. Certifique-se de ter o Python instalado (versão 3.13.0 recomendada).
 2. Baixe ou clone este repositório.
 3. Execute o script no terminal ou prompt de comando:
    ```sh
-   python nome_do_arquivo.py
+   python main.py
    ```
 4. Siga as instruções exibidas no terminal para interagir com o programa.
 
