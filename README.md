@@ -59,6 +59,9 @@ Plano Alimentar para Manutenção de Peso:
 ## Requisitos
 - Python 3.13.0
 
+## Autor
+- Bruno Erick
+
 ## Contribuição
 Se deseja contribuir, faça um fork do repositório, crie uma branch com sua alteração e envie um pull request.
 
