@@ -13,8 +13,9 @@ informação, motivação ou tempo.
 Mesmo com o acesso crescente a informações sobre saúde, muitas 
 pessoas ainda enfrentam dificuldades para adotar uma rotina 
 equilibrada. Entre os principais desafios estão: 
-• Falta de conhecimento sobre alimentação saudável; 
-• Dificuldade em organizar uma rotina de exercícios físicos; 
-• Excesso de alimentos ultraprocessados na dieta; 
-• Sedentarismo crescente devido ao estilo de vida moderno; 
-• Falta de motivação para manter hábitos saudáveis a longo prazo. 
+
+- Falta de conhecimento sobre alimentação saudável; 
+- Dificuldade em organizar uma rotina de exercícios físicos; 
+- Excesso de alimentos ultraprocessados na dieta; 
+- Sedentarismo crescente devido ao estilo de vida moderno; 
+- Falta de motivação para manter hábitos saudáveis a longo prazo. 
